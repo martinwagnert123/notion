@@ -1,5 +1,5 @@
 [build]
-  publish = "."
+  publish = "."  # Detta pekar på rotkatalogen där dina filer ligger
   functions = "netlify/functions"
 
 [functions]
