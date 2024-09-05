@@ -1,8 +1,7 @@
 {
-  "name": "ditt-projekt-namn",
+  "name": "notion-netlify-integration",
   "version": "1.0.0",
-  "description": "Mitt Netlify-projekt med Notion API",
-  "main": "index.js",
+  "description": "Netlify Functions med Notion API",
   "scripts": {
     "build": "echo 'No build required'"
   },
